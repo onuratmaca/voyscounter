@@ -1,0 +1,104 @@
+Download the React DevTools for a better development experience: https://react.dev/link/react-devtools
+pdfMerge.ts:358 [OCR] label page 1: 435 chars
+pdfMerge.ts:359 [OCR] first 400 chars: "FROM: To:\nOkan Duran\nSusan Nunn\n5325 Ashbury Drive 6257 Old Highway 5 S\nSan Antorlo, TX 7E250 Talking Rock, GA 30175\nCUST REF: 313085468745-55685722 Fed.\n2\n2\nFedEx Tracking ID# 3831 5783 7164\n9621 0914 0 (000 000 0000) 4 00 3831 5783 7164\nRETURN SERVICE REQUESTED\nPS LIGHTWEIGHT\nUSPS DELIVER TO: U.S. Postage Paid\nSusan Nunn FedEx Ground\n6257 Old Highway 5 S evs\nTalking Rock, GA 30175\nUSPS TRACKING "
+pdfMerge.ts:360 [FedEx addr extracted]: ""
+pdfMerge.ts:358 [OCR] label page 11: 457 chars
+pdfMerge.ts:359 [OCR] first 400 chars: "FROM: To:\nOkan Duran\nAmelia Frothingham-Epply\n5925 Ashbury Drive 12 N Wakefield Rd\nSan Antorlo, TX 7E250 Sanbornuille, NH 03872\nCUST REF: 313085468959-55685722 Fed.\ng\n2\nFedEx Tracking ID# 3831 5783 7360\n9621 0914 0 (000 000 0000) 4 00 3831 5783 7360\nRETURN SERVICE REQUESTED\nPS LIGHTWEIGHT\nUSPS DELIVER TO: USS. Postage Paid\n‘Amelia Frothingham-Epply FedEx Ground\n12 N Wakefield Rd evs\nSanbornvile, N"
+pdfMerge.ts:360 [FedEx addr extracted]: ""
+pdfMerge.ts:358 [OCR] label page 19: 420 chars
+pdfMerge.ts:359 [OCR] first 400 chars: "FROM: To:\nOkan Duran\nKayla poling\n5925 Ashbury Drive. 82 Chestnut St\nSan Antonio, TX 78250 Philippi, WV 26416\nCUST REF: 313085468805-55685722 Fed.\ng\n2\nFedEx Tracking ID# 3831 5783 6591\n9621 0914 0 (000 000 0000) 4 00 3831 5783 6591\nRETURN SERVICE REQUESTED\nPS LIGHTWEIGHT\nUSPS DELIVER TO: U.S. Postage Paid\nKayla poling FedEx Ground\n82 Chestnut St evs\nPhilippi, WV 26416\nUSPS TRACKING # e-VS\n9274 890"
+pdfMerge.ts:360 [FedEx addr extracted]: ""
+pdfMerge.ts:493 [MATCH] order "SAMANTHA GILBERT 1500 ARLINGTON HEIGHTS WAY IMPERIAL MO 6305" scanning 23 labels
+pdfMerge.ts:500   label[0] score=1.000 addr="SAMANTHA GILBERT 1500 ARLINGTON HEIGHTS WAY IMPERIAL MO 6305"
+pdfMerge.ts:504   → bestFlatIdx=0
+pdfMerge.ts:493 [MATCH] order "KAYLA POLING 82 CHESTNUT ST PHILIPPI WV 26416 1625" scanning 23 labels
+pdfMerge.ts:500   label[2] score=0.056 addr="CANDICE THARP 424 NW 26TH ST OCALA FL 34475 9340"
+pdfMerge.ts:500   label[10] score=0.056 addr="KEVIN ZHAO 1536 STONEHAVEN ST ANN ARBOR MI 48104 4150"
+pdfMerge.ts:500   label[16] score=0.056 addr="DALE DELAMATER 17 S WEST ST NORWALK OH 44857 1935"
+pdfMerge.ts:504   → bestFlatIdx=undefined
+pdfMerge.ts:493 [MATCH] order "CANDICE THARP 424 NW 26TH ST OCALA FL 34475 9340" scanning 23 labels
+pdfMerge.ts:500   label[2] score=1.000 addr="CANDICE THARP 424 NW 26TH ST OCALA FL 34475 9340"
+pdfMerge.ts:500   label[3] score=0.053 addr="L GUILLEN 2308 S LOIS AVE TAMPA FL 33629 5606"
+pdfMerge.ts:500   label[5] score=0.100 addr="ISABELA RAMON APT 301 17575 NW 94TH CT HIALEAH FL 33018 4415"
+pdfMerge.ts:500   label[7] score=0.053 addr="SEJAL DAVE 845 EMERALD LN NW ROCHESTER MN 55901 6514"
+pdfMerge.ts:500   label[8] score=0.053 addr="JESSICA CRAY 5791 EXCALIBUR CT NW ROCHESTER MN 55901 0845"
+pdfMerge.ts:500   label[10] score=0.053 addr="KEVIN ZHAO 1536 STONEHAVEN ST ANN ARBOR MI 48104 4150"
+pdfMerge.ts:500   label[16] score=0.053 addr="DALE DELAMATER 17 S WEST ST NORWALK OH 44857 1935"
+pdfMerge.ts:504   → bestFlatIdx=2
+pdfMerge.ts:493 [MATCH] order "L GUILLEN 2308 S LOIS AVE TAMPA FL 33629 5606" scanning 23 labels
+pdfMerge.ts:500   label[3] score=1.000 addr="L GUILLEN 2308 S LOIS AVE TAMPA FL 33629 5606"
+pdfMerge.ts:500   label[13] score=0.053 addr="JENN STEINER 2560 E LIVINGSTON AVE COLUMBUS OH 43209 2942"
+pdfMerge.ts:500   label[14] score=0.056 addr="MAGEE BARNEY 20 DEXTER AVE AUBURN NY 13021 4541"
+pdfMerge.ts:500   label[16] score=0.053 addr="DALE DELAMATER 17 S WEST ST NORWALK OH 44857 1935"
+pdfMerge.ts:500   label[20] score=0.100 addr="MICHEL VICTOR GDANOV 3781 S ANDREW JOHNSON AVE TUCSON AZ 857"
+pdfMerge.ts:500   label[21] score=0.053 addr="CYNTHIA DAMATO 42 DAISY AVE FLORAL PARK NY 11001 2522"
+pdfMerge.ts:504   → bestFlatIdx=3
+pdfMerge.ts:493 [MATCH] order "MELISSA WILLIAMS 162 TIERRA ENCANTADA CORRALES NM 87048" scanning 23 labels
+pdfMerge.ts:500   label[4] score=0.889 addr="MELISSA WILLIAMS 162 TIERRA ENCANTADA CORRALES NM 87048 6809"
+pdfMerge.ts:504   → bestFlatIdx=4
+pdfMerge.ts:493 [MATCH] order "ISABELA RAMON 17575 NW 94TH CT APT 301 HIALEAH FL 33018 4415" scanning 23 labels
+pdfMerge.ts:500   label[5] score=1.000 addr="ISABELA RAMON APT 301 17575 NW 94TH CT HIALEAH FL 33018 4415"
+pdfMerge.ts:500   label[8] score=0.100 addr="JESSICA CRAY 5791 EXCALIBUR CT NW ROCHESTER MN 55901 0845"
+pdfMerge.ts:504   → bestFlatIdx=5
+pdfMerge.ts:493 [MATCH] order "MARY MARTIN 1512 PLEASANT VALLEY RD MONROE GA 30655" scanning 23 labels
+pdfMerge.ts:500   label[6] score=0.900 addr="MARY MARTIN 1512 PLEASANT VALLEY RD MONROE GA 30655 6230"
+pdfMerge.ts:500   label[17] score=0.056 addr="ALEX LOVELL 5220 FOREST BROOK PKWY MARIETTA GA 30068 2832"
+pdfMerge.ts:504   → bestFlatIdx=6
+pdfMerge.ts:493 [MATCH] order "SEJAL DAVE 845 EMERALD LN NW ROCHESTER MN 55901" scanning 23 labels
+pdfMerge.ts:500   label[7] score=0.900 addr="SEJAL DAVE 845 EMERALD LN NW ROCHESTER MN 55901 6514"
+pdfMerge.ts:500   label[8] score=0.267 addr="JESSICA CRAY 5791 EXCALIBUR CT NW ROCHESTER MN 55901 0845"
+pdfMerge.ts:500   label[18] score=0.059 addr="MARK SCELZA 40 WINSLOW LN SMITHTOWN NY 11787 1342"
+pdfMerge.ts:504   → bestFlatIdx=7
+pdfMerge.ts:493 [MATCH] order "JESSICA CRAY 5791 EXCALIBUR CT NW ROCHESTER MN 55901" scanning 23 labels
+pdfMerge.ts:500   label[8] score=0.900 addr="JESSICA CRAY 5791 EXCALIBUR CT NW ROCHESTER MN 55901 0845"
+pdfMerge.ts:500   label[22] score=0.059 addr="ALLISON CARDENAS 11953 HEATHCOTE CT RESTON VA 20191 2741"
+pdfMerge.ts:504   → bestFlatIdx=8
+pdfMerge.ts:493 [MATCH] order "COURTNEY WILSON 3009 N STATE HIGHWAY 125 STRAFFORD MO 65757 " scanning 23 labels
+pdfMerge.ts:500   label[9] score=1.000 addr="COURTNEY WILSON 3009 N STATE HIGHWAY 125 STRAFFORD MO 65757 "
+pdfMerge.ts:504   → bestFlatIdx=9
+pdfMerge.ts:493 [MATCH] order "KEVIN ZHAO 1536 STONEHAVEN ST ANN ARBOR MI 48104" scanning 23 labels
+pdfMerge.ts:500   label[10] score=0.900 addr="KEVIN ZHAO 1536 STONEHAVEN ST ANN ARBOR MI 48104 4150"
+pdfMerge.ts:500   label[16] score=0.056 addr="DALE DELAMATER 17 S WEST ST NORWALK OH 44857 1935"
+pdfMerge.ts:504   → bestFlatIdx=10
+pdfMerge.ts:493 [MATCH] order "JOEL TOMME 1018 JEFF DAVIS DR TYLER TX 75703 5536" scanning 23 labels
+pdfMerge.ts:500   label[12] score=1.000 addr="JOEL TOMME 1018 JEFF DAVIS DR TYLER TX 75703 5536"
+pdfMerge.ts:500   label[15] score=0.053 addr="KRISTINE MURRAY 2069 DOLINA DR VIRGINIA BEACH VA 23464 8210"
+pdfMerge.ts:504   → bestFlatIdx=12
+pdfMerge.ts:493 [MATCH] order "JENN STEINER 2560 E LIVINGSTON AVE COLUMBUS OH 43209" scanning 23 labels
+pdfMerge.ts:500   label[13] score=0.900 addr="JENN STEINER 2560 E LIVINGSTON AVE COLUMBUS OH 43209 2942"
+pdfMerge.ts:500   label[14] score=0.059 addr="MAGEE BARNEY 20 DEXTER AVE AUBURN NY 13021 4541"
+pdfMerge.ts:500   label[16] score=0.056 addr="DALE DELAMATER 17 S WEST ST NORWALK OH 44857 1935"
+pdfMerge.ts:500   label[21] score=0.056 addr="CYNTHIA DAMATO 42 DAISY AVE FLORAL PARK NY 11001 2522"
+pdfMerge.ts:504   → bestFlatIdx=13
+pdfMerge.ts:493 [MATCH] order "MAGEE BARNEY 20 DEXTER AVE AUBURN NY 13021 4541" scanning 23 labels
+pdfMerge.ts:500   label[14] score=1.000 addr="MAGEE BARNEY 20 DEXTER AVE AUBURN NY 13021 4541"
+pdfMerge.ts:500   label[18] score=0.059 addr="MARK SCELZA 40 WINSLOW LN SMITHTOWN NY 11787 1342"
+pdfMerge.ts:500   label[21] score=0.118 addr="CYNTHIA DAMATO 42 DAISY AVE FLORAL PARK NY 11001 2522"
+pdfMerge.ts:504   → bestFlatIdx=14
+pdfMerge.ts:493 [MATCH] order "KRISTINE MURRAY 2069 DOLINA DR VIRGINIA BEACH VA 23464" scanning 23 labels
+pdfMerge.ts:500   label[15] score=0.900 addr="KRISTINE MURRAY 2069 DOLINA DR VIRGINIA BEACH VA 23464 8210"
+pdfMerge.ts:500   label[22] score=0.059 addr="ALLISON CARDENAS 11953 HEATHCOTE CT RESTON VA 20191 2741"
+pdfMerge.ts:504   → bestFlatIdx=15
+pdfMerge.ts:493 [MATCH] order "SUSAN NUNN 6257 OLD HIGHWAY 5 S TALKING ROCK GA 30175" scanning 23 labels
+pdfMerge.ts:504   → bestFlatIdx=undefined
+pdfMerge.ts:493 [MATCH] order "DALE DELAMATER 17 S WEST ST NORWALK OH 44857 1935" scanning 23 labels
+pdfMerge.ts:500   label[16] score=1.000 addr="DALE DELAMATER 17 S WEST ST NORWALK OH 44857 1935"
+pdfMerge.ts:504   → bestFlatIdx=16
+pdfMerge.ts:493 [MATCH] order "ALEX LOVELL 5220 FOREST BROOK PKWY MARIETTA GA 30068" scanning 23 labels
+pdfMerge.ts:500   label[17] score=0.900 addr="ALEX LOVELL 5220 FOREST BROOK PKWY MARIETTA GA 30068 2832"
+pdfMerge.ts:504   → bestFlatIdx=17
+pdfMerge.ts:493 [MATCH] order "MARK SCELZA 40 WINSLOW LN SMITHTOWN NY 11787 1342" scanning 23 labels
+pdfMerge.ts:500   label[18] score=1.000 addr="MARK SCELZA 40 WINSLOW LN SMITHTOWN NY 11787 1342"
+pdfMerge.ts:500   label[21] score=0.056 addr="CYNTHIA DAMATO 42 DAISY AVE FLORAL PARK NY 11001 2522"
+pdfMerge.ts:504   → bestFlatIdx=18
+pdfMerge.ts:493 [MATCH] order "AMELIA FROTHINGHAM EPPLY 12 N WAKEFIELD RD SANBORNVILLE NH 0" scanning 23 labels
+pdfMerge.ts:504   → bestFlatIdx=undefined
+pdfMerge.ts:493 [MATCH] order "MICHEL VICTOR GDANOV 3781 SOUTH ANDREW JOHNSON AVENUE TUCSON" scanning 23 labels
+pdfMerge.ts:500   label[20] score=0.714 addr="MICHEL VICTOR GDANOV 3781 S ANDREW JOHNSON AVE TUCSON AZ 857"
+pdfMerge.ts:504   → bestFlatIdx=20
+pdfMerge.ts:493 [MATCH] order "CYNTHIA DAMATO 42 DAISY AVE FLORAL PARK NY 11001" scanning 23 labels
+pdfMerge.ts:500   label[21] score=0.900 addr="CYNTHIA DAMATO 42 DAISY AVE FLORAL PARK NY 11001 2522"
+pdfMerge.ts:504   → bestFlatIdx=21
+pdfMerge.ts:493 [MATCH] order "ALLISON CARDENAS 11953 HEATHCOTE CT RESTON VA 20191" scanning 23 labels
+pdfMerge.ts:500   label[22] score=0.889 addr="ALLISON CARDENAS 11953 HEATHCOTE CT RESTON VA 20191 2741"
+pdfMerge.ts:504   → bestFlatIdx=22
